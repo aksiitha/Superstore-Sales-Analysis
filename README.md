@@ -17,7 +17,7 @@ The project also includes a Sales Forecast Dashboard, providing a 15-day predict
 4) GitHub – For project documentation and sharing
 
 # Dashboard Features
-1) Superstore Analysis Dashboard
+ 1) Superstore Analysis Dashboard
 - Sales breakdown by Region, Category, and Segment
 - Insights on Payment modes, Ship modes, and State-level sales
 - Monthly Sales and Profit trend visualization
