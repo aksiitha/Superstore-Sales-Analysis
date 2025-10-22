@@ -16,7 +16,7 @@ The project also includes a Sales Forecast Dashboard, providing a 15-day predict
 3) DAX – For creating calculated fields and measures
 4) GitHub – For project documentation and sharing
 
-# 📈 Dashboard Features
+# Dashboard Features
 1) Superstore Analysis Dashboard
 - Sales breakdown by Region, Category, and Segment
 - Insights on Payment modes, Ship modes, and State-level sales
@@ -32,7 +32,3 @@ The project also includes a Sales Forecast Dashboard, providing a 15-day predict
 3) Office Supplies and Technology are top-selling categories.
 4) California records the highest state-wise sales performance.
 5) Forecast predicts an upward sales trend in the next 15 days.
-
-🚀 How to Use
-
-D
